@@ -1,0 +1,15 @@
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/bin/Debug/net6.0/Example001 _HelloConsole
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/bin/Debug/net6.0/Example001 _HelloConsole.deps.json
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/bin/Debug/net6.0/Example001 _HelloConsole.runtimeconfig.json
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/bin/Debug/net6.0/Example001 _HelloConsole.dll
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/bin/Debug/net6.0/Example001 _HelloConsole.pdb
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.csproj.AssemblyReference.cache
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.AssemblyInfoInputs.cache
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.AssemblyInfo.cs
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.csproj.CoreCompileInputs.cache
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.dll
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/refint/Example001 _HelloConsole.dll
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.pdb
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/Example001 _HelloConsole.genruntimeconfig.cache
+/Users/anton/Documents/C#/Examples/Example001 _HelloConsole/obj/Debug/net6.0/ref/Example001 _HelloConsole.dll
